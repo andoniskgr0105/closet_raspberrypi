@@ -5,6 +5,7 @@ Create GUI
         Button bagkground color green and font black 20px,
         
 
+
     Frame with black bagkground, Logo (fixed text or image) on the top left corner of the screen, font white 20px.
     Frame with black bagkground, current Date and time on the top right corner of the screen, font white 20px.
     Frame with lightgreen bagkground and 80% width of the screen, at the center will be a text field with black font 25px size.
