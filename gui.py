@@ -1,7 +1,7 @@
 import tkinter as tk
 from tkinter import font
 from datetime import datetime
-#from functions import send_sms
+from functions import send_sms
 
 class Application(tk.Tk):
     def __init__(self):
@@ -69,7 +69,7 @@ class Application(tk.Tk):
         self.text_field.config(text=message_text)
         
         # Send SMS using the SMSSender class
-        # send_sms(message_text)
+        send_sms(message_text)
 
     
     def button_released(self, event):
