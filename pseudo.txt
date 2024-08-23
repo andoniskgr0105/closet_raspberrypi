@@ -3,8 +3,7 @@ Create GUI
     Frame with black bagkground, 
         8 oval buttons (lockers) with numbering from 1-8 in the center of each. 
         Button bagkground color green and font black 20px,
-        
-
+    
 
     Frame with black bagkground, Logo (fixed text or image) on the top left corner of the screen, font white 20px.
     Frame with black bagkground, current Date and time on the top right corner of the screen, font white 20px.
